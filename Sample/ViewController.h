@@ -9,7 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+//origin test code
++(ViewController *)getInsIns
 
 @end
 
