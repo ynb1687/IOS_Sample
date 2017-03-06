@@ -12,6 +12,7 @@ pod 'UMengSocial', '~> 4.2.3'
 pod 'SDWebImage', '~>3.7'
 pod 'IQKeyboardManager','~> 3.2.4'
 
+#add aliyun use tip
 pod 'AliyunOSSiOS', :git => 'https://github.com/aliyun/AliyunOSSiOS.git'
 
 
