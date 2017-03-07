@@ -19,3 +19,5 @@ pod 'AliyunOSSiOS', :git => 'https://github.com/aliyun/AliyunOSSiOS.git'
 #platform :ios, '7.0' #手机的系统
 #test code #test code #test code 
 end
+
+#444444444
