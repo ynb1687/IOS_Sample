@@ -15,7 +15,7 @@ pod 'IQKeyboardManager','~> 3.2.4'
 #add aliyun use tip
 pod 'AliyunOSSiOS', :git => 'https://github.com/aliyun/AliyunOSSiOS.git'
 
-
+#insert test
 #platform :ios, '7.0' #手机的系统
 #test code #test code #test code 
 end
